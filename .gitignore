@@ -1,0 +1,16 @@
+# Logs
+*.log
+embedding_*.log
+
+# Temporary files
+__pycache__/
+*.pyc
+*.pyo
+
+# Source ZIP archives (keep embedded ZIPs)
+data-1.zip
+data-2.zip
+data-3.zip
+
+# Environment
+.env
